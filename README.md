@@ -1,14 +1,6 @@
 # oss-audit-24BCE10218
 # Open Source Audit – MySQL
 
-![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
-![Course](https://img.shields.io/badge/Course-Open%20Source%20Software-green)
-![Platform](https://img.shields.io/badge/Platform-Linux-orange)
-![Database](https://img.shields.io/badge/Database-MySQL-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
 ## Overview
 This repository contains a comprehensive audit of MySQL, a leading open-source relational database management system. The project evaluates MySQL across its history, licensing model, Linux integration, ecosystem, and its comparison with proprietary alternatives.
 
