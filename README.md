@@ -35,8 +35,9 @@ This repository contains a comprehensive audit of MySQL, a leading open-source r
 ├── scripts/  
 │   ├── system_identity.sh  
 │   ├── package_inspector.sh  
-│   ├── disk_auditor.sh  
-│   └── ...  
+│   ├── disk_auditor.sh
+|   |── file_analyzer.sh 
+│   └── manifesto_generator.sh
 └── README.md  
 
 ---
