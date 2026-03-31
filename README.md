@@ -50,22 +50,5 @@ This repository contains a comprehensive audit of MySQL, a leading open-source r
 
 ---
 
-## Getting Started
-
-### Clone the Repository
-git clone https://github.com/your-username/open-source-audit-mysql.git  
-cd open-source-audit-mysql  
-
-### Run Scripts
-chmod +x scripts/*.sh  
-./scripts/system_identity.sh  
-
----
-
-## License
-This project is for academic purposes and follows GNU General Public License v2 (GPL v2).
-
----
-
 ## Conclusion
 MySQL demonstrates the strength of open-source software by combining community-driven innovation with enterprise-level scalability, making it essential for modern applications.
